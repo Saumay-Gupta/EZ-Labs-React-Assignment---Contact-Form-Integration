@@ -1,2 +1,12 @@
-# EZ-Labs-React-Assignment---Contact-Form-Integration
-A responsive single-page React application built as part of the EZ Labs frontend assignment.  The task involves recreating the provided Figma design and integrating a contact form with the given API endpoint.  Includes frontend form validation, API integration using Axios, and a Postman dump demonstrating the API request.
+# EZ Labs React Assignment - Contact Form Integration
+
+This repository contains a responsive single-page web application built using **React.js** as part of the **EZ Labs Frontend Assignment**.
+
+---
+
+## 🧩 Features
+- Responsive design based on the provided Figma layout  
+- Contact form integrated with the given backend API  
+- Email and empty-field validations on the frontend  
+- Displays confirmation message on successful form submission  
+- Includes Postman dump for API testing  
