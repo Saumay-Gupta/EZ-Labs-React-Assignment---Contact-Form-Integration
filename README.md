@@ -9,4 +9,4 @@ This repository contains a responsive single-page web application built using **
 - Contact form integrated with the given backend API  
 - Email and empty-field validations on the frontend  
 - Displays confirmation message on successful form submission  
-- Includes Postman dump for API testing  
+- Includes Postman dump for API testing
